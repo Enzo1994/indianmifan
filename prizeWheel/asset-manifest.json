@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c35c3b5a.chunk.css",
+    "main.js": "/static/js/main.a79cdc3d.chunk.js",
+    "main.js.map": "/static/js/main.a79cdc3d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.cb69aa61.js",
+    "runtime~main.js.map": "/static/js/runtime~main.cb69aa61.js.map",
+    "static/js/2.e3831b89.chunk.js": "/static/js/2.e3831b89.chunk.js",
+    "static/js/2.e3831b89.chunk.js.map": "/static/js/2.e3831b89.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5171c1b8689c719b3c0a24ce3a202724.js": "/precache-manifest.5171c1b8689c719b3c0a24ce3a202724.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c35c3b5a.chunk.css.map": "/static/css/main.c35c3b5a.chunk.css.map",
+    "static/media/wheel.css": "/static/media/prizeWheelRoutationPart.bb92e635.png"
+  }
+}
